@@ -1,9 +1,8 @@
-# -
+# 
 CGSolver_Temperature
 
 
-# CG_Tem
-CG_Tem
+# CG-求解温度泊松方程
 
 
 ## 背景简介
